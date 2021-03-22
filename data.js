@@ -50,7 +50,7 @@ const lessons = [
     {
         "id": "7",
         "subject":"Biomedical",
-        "location":"Sweden",
+        "location":"San Francisco",
         "price":110,
         "availableInventory":5,
         "image":"images/move7.jpg"   
