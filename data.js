@@ -58,7 +58,7 @@ const lessons = [
     {
         "id": "8",
         "subject":"Programming",
-        "location":"Amsterdam",
+        "location":"Netherlands",
         "price":120,
         "availableInventory":5,
         "image":"images/move8.jpg"   
