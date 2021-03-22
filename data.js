@@ -10,7 +10,7 @@ const lessons = [
     {
         "id": "2",
         "subject":"Mathematics",
-        "location":"Lagos",
+        "location":"Texas",
         "price":215,
         "availableInventory":10,
         "image":"images/move11.jpg"   
