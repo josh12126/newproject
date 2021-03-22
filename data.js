@@ -34,7 +34,7 @@ const lessons = [
     {
         "id": "5",
         "subject":"Nursing",
-        "location":"Australia",
+        "location":"Austria",
         "price":150,
         "availableInventory":5,
         "image":"images/move5.jpg"   
