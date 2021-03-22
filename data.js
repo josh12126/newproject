@@ -65,7 +65,7 @@ const lessons = [
     },
     {
         "id": "9",
-        "subject":"Agricultural Science",
+        "subject":"Agricultural ",
         "location":"manchester",
         "price":180,
         "availableInventory":5,
