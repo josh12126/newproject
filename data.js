@@ -57,7 +57,7 @@ const lessons = [
     },
     {
         "id": "8",
-        "subject":"Programming",
+        "subject":"Business Intelligence",
         "location":"Netherlands",
         "price":120,
         "availableInventory":5,
