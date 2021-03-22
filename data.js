@@ -3,7 +3,7 @@ const lessons = [
         "id": "1",
         "image":"images/move1.jpg" ,
         "subject":"English",
-        "location":"Dubai",
+        "location":"England",
         "price":280,
         "availableInventory":5  
     },
